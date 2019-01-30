@@ -5,7 +5,7 @@ fields
 		(targetName 'ushort*')
 		(comment 'ushort*')
 		(lastWritten 'WinFiletime')
-		(credentialBlobSize 'ulong')
+		(credentialBlobSize 'ulong' 8)
 		(credentialBlob 'byte*')
 		(persist 'ulong')
 		(attributeCount 'ulong')
