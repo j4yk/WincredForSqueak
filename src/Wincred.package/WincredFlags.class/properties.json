@@ -1,0 +1,15 @@
+{
+	"category" : "Wincred-Constants",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CredFlagsPromptNow",
+		"CredFlagsUsernameTarget" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WincredFlags",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

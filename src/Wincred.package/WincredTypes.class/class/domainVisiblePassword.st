@@ -1,0 +1,3 @@
+constants
+domainVisiblePassword
+	^ CredTypeDomainVisiblePassword

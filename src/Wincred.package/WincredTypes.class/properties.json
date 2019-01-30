@@ -1,0 +1,21 @@
+{
+	"category" : "Wincred-Constants",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CredTypeDomainCertificate",
+		"CredTypeDomainExtended",
+		"CredTypeDomainPassword",
+		"CredTypeDomainVisiblePassword",
+		"CredTypeGeneric",
+		"CredTypeGenericCertificate",
+		"CredTypeMaximum",
+		"CredTypeMaximumEx" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WincredTypes",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

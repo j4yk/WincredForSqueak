@@ -1,0 +1,3 @@
+constants
+domainExtended
+	^ CredTypeDomainExtended

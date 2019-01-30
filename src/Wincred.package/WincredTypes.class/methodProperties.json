@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"at:" : "jr 1/30/2019 21:29",
+		"constants" : "jr 1/30/2019 21:29",
+		"domainCertificate" : "jr 1/30/2019 21:20",
+		"domainExtended" : "jr 1/30/2019 21:20",
+		"domainPassword" : "jr 1/30/2019 21:20",
+		"domainVisiblePassword" : "jr 1/30/2019 21:20",
+		"generic" : "jr 1/30/2019 21:21",
+		"genericCertificate" : "jr 1/30/2019 21:21",
+		"initialize" : "jr 1/30/2019 21:19",
+		"maximum" : "jr 1/30/2019 21:21",
+		"maximumEx" : "jr 1/30/2019 21:21" },
+	"instance" : {
+		 } }

@@ -1,0 +1,3 @@
+constants
+promptNow
+	^ CredFlagsPromptNow

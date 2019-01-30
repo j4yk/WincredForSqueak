@@ -1,0 +1,14 @@
+{
+	"category" : "Wincred-Constants",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CredMaxAttributes" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WincredAdditionalConstants",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

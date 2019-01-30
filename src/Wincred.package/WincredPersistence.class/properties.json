@@ -1,0 +1,16 @@
+{
+	"category" : "Wincred-Constants",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CredPersistEnterprise",
+		"CredPersistLocalMachine",
+		"CredPersistSession" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WincredPersistence",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+constants
+generic
+	^ CredTypeGeneric
