@@ -2,5 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"enumerateWithFilter:flags:count:credential:" : "jr 1/26/2019 00:18",
-		"free:" : "jr 1/26/2019 01:09" } }
+		"apiEnumerateWithFilter:flags:count:credential:" : "jr 1/30/2019 21:04",
+		"apiFree:" : "jr 1/30/2019 21:04",
+		"enumerateCredentials:flags:" : "jr 1/30/2019 21:06" } }

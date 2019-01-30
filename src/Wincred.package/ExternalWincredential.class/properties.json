@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "jr 1/30/2019 21:32",
 	"instvars" : [
 		 ],
-	"name" : "WinFiletime",
+	"name" : "ExternalWincredential",
 	"pools" : [
 		 ],
 	"super" : "ExternalStructure",
