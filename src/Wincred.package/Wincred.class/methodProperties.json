@@ -4,4 +4,6 @@
 	"instance" : {
 		"apiEnumerateWithFilter:flags:count:credential:" : "jr 1/30/2019 21:04",
 		"apiFree:" : "jr 1/30/2019 21:04",
-		"enumerateCredentials:flags:" : "jr 1/30/2019 21:06" } }
+		"apiRead:type:flags:credential:" : "jr 1/30/2019 22:34",
+		"enumerateCredentials:flags:" : "jr 1/30/2019 21:06",
+		"read:type:flags:" : "jr 1/30/2019 23:59" } }

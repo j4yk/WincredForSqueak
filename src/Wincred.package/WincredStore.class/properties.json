@@ -1,0 +1,14 @@
+{
+	"category" : "Wincred",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"wincred" ],
+	"name" : "WincredStore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

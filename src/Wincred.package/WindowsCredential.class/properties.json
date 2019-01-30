@@ -1,0 +1,23 @@
+{
+	"category" : "Wincred",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jr 1/30/2019 21:47",
+	"instvars" : [
+		"flags",
+		"type",
+		"targetName",
+		"comment",
+		"lastWritten",
+		"credentialBlob",
+		"persistence",
+		"attributes",
+		"targetAlias",
+		"userName" ],
+	"name" : "WindowsCredential",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

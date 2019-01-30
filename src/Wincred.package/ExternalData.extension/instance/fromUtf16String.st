@@ -3,7 +3,6 @@ fromUtf16String
 	"Assume that the receiver represents a UTF-16 wchar_t* string and convert it to a Smalltalk WideString."
 
 	| stream index wchar converter |
-	type isPointerType ifFalse: [self error: 'External object is not a pointer type.'].
 	converter := UTF16TextConverter new.
 	converter useLittleEndian: true.
 	stream := WriteStream on: (String new: 10).
